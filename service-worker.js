@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-fluid-table/precache-manifest.b9a43a8455e9be493f7042dce0f3cec1.js"
+  "/react-fluid-table/precache-manifest.5bc1dbdc61f68256cd82b9af502fa266.js"
 );
 
 self.addEventListener('message', (event) => {
