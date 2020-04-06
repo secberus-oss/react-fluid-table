@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-fluid-table/static/css/main.c6954ef9.chunk.css",
-    "main.js": "/react-fluid-table/static/js/main.286c8ac1.chunk.js",
-    "main.js.map": "/react-fluid-table/static/js/main.286c8ac1.chunk.js.map",
+    "main.js": "/react-fluid-table/static/js/main.5bb61951.chunk.js",
+    "main.js.map": "/react-fluid-table/static/js/main.5bb61951.chunk.js.map",
     "runtime-main.js": "/react-fluid-table/static/js/runtime-main.87e53d95.js",
     "runtime-main.js.map": "/react-fluid-table/static/js/runtime-main.87e53d95.js.map",
     "static/css/2.7d1420ca.chunk.css": "/react-fluid-table/static/css/2.7d1420ca.chunk.css",
     "static/js/2.ab38a64d.chunk.js": "/react-fluid-table/static/js/2.ab38a64d.chunk.js",
     "static/js/2.ab38a64d.chunk.js.map": "/react-fluid-table/static/js/2.ab38a64d.chunk.js.map",
     "index.html": "/react-fluid-table/index.html",
-    "precache-manifest.8d34f3faf12787053a548ecdb421bd60.js": "/react-fluid-table/precache-manifest.8d34f3faf12787053a548ecdb421bd60.js",
+    "precache-manifest.3296874333852a4d28009c16714424dc.js": "/react-fluid-table/precache-manifest.3296874333852a4d28009c16714424dc.js",
     "service-worker.js": "/react-fluid-table/service-worker.js",
     "static/css/2.7d1420ca.chunk.css.map": "/react-fluid-table/static/css/2.7d1420ca.chunk.css.map",
     "static/css/main.c6954ef9.chunk.css.map": "/react-fluid-table/static/css/main.c6954ef9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.7d1420ca.chunk.css",
     "static/js/2.ab38a64d.chunk.js",
     "static/css/main.c6954ef9.chunk.css",
-    "static/js/main.286c8ac1.chunk.js"
+    "static/js/main.5bb61951.chunk.js"
   ]
 }
