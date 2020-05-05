@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7913e376169042623b76e8c5b175ede",
+    "revision": "3a92a3a0f8337cc884e14da930d74bb3",
     "url": "/react-fluid-table/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-fluid-table/static/css/2.7d1420ca.chunk.css"
   },
   {
-    "revision": "da6477e9d1ff8a4b2830",
+    "revision": "aa9869215adddfff3294",
     "url": "/react-fluid-table/static/css/main.c6954ef9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-fluid-table/static/js/2.4cb2f61a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da6477e9d1ff8a4b2830",
-    "url": "/react-fluid-table/static/js/main.9b066c63.chunk.js"
+    "revision": "aa9869215adddfff3294",
+    "url": "/react-fluid-table/static/js/main.be327e1b.chunk.js"
   },
   {
     "revision": "c8a40eb477ac9226ab66",
