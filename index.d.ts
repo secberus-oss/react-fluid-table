@@ -1,4 +1,5 @@
 import { CSSProperties, ElementType, FC, ReactNode } from "react";
+import { VariableSizeListProps } from "react-window";
 
 declare module "*.svg" {
   const content: string;
@@ -132,7 +133,7 @@ export interface ListProps {
   [key: string]: any;
 }
 
-export interface TableProps {
+export interface TableProps extends Partial<VariableSizeListProps> {
   // required props
   /**
    * A list of rows that are to be displayed in the table.
